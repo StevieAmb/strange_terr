@@ -5,7 +5,7 @@ body {
 
 .disclaimer-strip {
   margin: 0;
-  padding: .17rem 0;
+  padding: .001rem 0;
   text-align: center;
   background-color: #521B06;
   color: #fff;
@@ -17,4 +17,6 @@ body {
 
 .navigation-bar {
   display: flex;
+  background-color: #F0E9E6;
+  box-shadow: 0 0 30px black;
 }
