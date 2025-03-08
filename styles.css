@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+
+.disclaimer-strip {
+  margin: 0;
+  padding: .001rem 0;
+  text-align: center;
+  background-color: #521B06;
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 3.7px;
+}
+
+.navigation-bar {
+  display: flex;
+  background-color: #F0E9E6;
+  box-shadow: 0 0 30px black;
+}
+
+.nav-links {
+  margin: 2rem 0  0 20rem;
+  display: flex;
+  gap: 5rem;
+  list-style: none;
+}
