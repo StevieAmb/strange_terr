@@ -30,5 +30,16 @@ body {
 
 .hero-image-section {
   display: flex;
-  gap: 2rem;
+}
+
+.hero-image-slides {
+  background-image: url('images/Terrarium.jpg');
+  background-size: cover;
+  height: 90vh;
+  width: 55vw;
+}
+
+.logo-image {
+  width: 45vw;
+  height: 90vh;
 }
