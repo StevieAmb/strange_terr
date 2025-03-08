@@ -68,3 +68,15 @@ body {
   margin-top: 28.3rem;
   font-size: 32px;
 }
+
+.standout-list {
+  margin-top: 15rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.custom-design, .eco-friendly-materials, .black-owned {
+  background-image: url('images/terrariums1.jpg');
+  height: 50vh;
+  width: 25vw;
+}
