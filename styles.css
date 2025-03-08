@@ -18,7 +18,7 @@ body {
 .navigation-bar {
   display: flex;
   background-color: #F0E9E6;
-  box-shadow: 0 0 30px black;
+  box-shadow: 0 0 20px black;
 }
 
 .nav-links {
@@ -26,4 +26,45 @@ body {
   display: flex;
   gap: 5rem;
   list-style: none;
+}
+
+.hero-image-section {
+  display: flex;
+}
+
+.hero-image-slides {
+  background-image: url('images/Terrarium.jpg');
+  background-size: cover;
+  height: 90vh;
+  width: 55vw;
+}
+
+.hero-shop-button {
+  border-color: white;
+  margin: 32rem 0 0 30rem;
+  padding: 1.2rem 3rem;
+  background-color: #658E9E;
+  border-radius: 7px;
+  font-weight: bold;
+  color: white;
+  font-size: 24px;
+}
+
+.logo-section {
+  background-image: url('images/STlogo.png');
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 49rem 35rem;
+  width: 45vw;
+  height: 90vh;
+}
+
+.welcome-line {
+  margin-top: 2.7rem;
+}
+
+.marketplace-line {
+  margin-top: 28.3rem;
+  font-size: 32px;
 }
