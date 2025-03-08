@@ -37,7 +37,7 @@ body {
   background-size: cover;
   height: 90vh;
   width: 55vw;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 
 .hero-shop-button {
@@ -56,10 +56,10 @@ body {
   text-align: center;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 39rem 29rem;
+  background-size: 35rem 25rem;
   width: 45vw;
   height: 90vh;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 
 .welcome-line {
@@ -67,8 +67,8 @@ body {
 }
 
 .marketplace-line {
-  margin-top: 28.3rem;
-  font-size: 32px;
+  margin-top: 27rem;
+  font-size: 31px;
 }
 
 .standout-list {
@@ -79,7 +79,7 @@ body {
 }
 
 .custom-designs, .eco-friendly-materials, .award-winning {
-  background-image: url('images/terrariums1.jpg');
+  background-image: url('images/contact-terrarium.jpg');
   height: 50vh;
   width: 25vw;
 }
@@ -90,6 +90,7 @@ body {
   padding: 2rem;
   font-size: 24px;
   font-style: italic;
+  font-weight: bolder;
   background-color: grey;
   color: white;
 }
