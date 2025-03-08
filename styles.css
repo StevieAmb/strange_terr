@@ -70,12 +70,13 @@ body {
 }
 
 .standout-list {
-  margin-top: 15rem;
   display: flex;
-  gap: 1rem;
+  justify-content: center;
+  margin-top: 15rem;
+  gap: 5rem;
 }
 
-.custom-design, .eco-friendly-materials, .black-owned {
+.custom-designs, .eco-friendly-materials, .award-winning {
   background-image: url('images/terrariums1.jpg');
   height: 50vh;
   width: 25vw;
