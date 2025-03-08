@@ -79,7 +79,8 @@ body {
 }
 
 .custom-designs, .eco-friendly-materials, .award-winning {
-  background-image: url('images/contact-terrarium.jpg');
+  background-image: url('images/open\ terrarium.webp');
+  background-position: center;
   height: 50vh;
   width: 25vw;
 }
