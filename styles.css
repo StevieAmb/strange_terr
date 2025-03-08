@@ -55,7 +55,7 @@ body {
   text-align: center;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 49rem 35rem;
+  background-size: 39rem 29rem;
   width: 45vw;
   height: 90vh;
 }
@@ -80,4 +80,12 @@ body {
   background-image: url('images/terrariums1.jpg');
   height: 50vh;
   width: 25vw;
+}
+
+.standout-square p {
+  text-align: center;
+  margin-top: 16rem;
+  padding: 2rem;
+  background-color: grey;
+  color: white;
 }
