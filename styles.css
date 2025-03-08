@@ -40,8 +40,9 @@ body {
 }
 
 .hero-shop-button {
-  padding: 1.2rem 2.4rem;
-  border: none;
+  border-color: white;
+  margin: 2rem 0 0 1rem;
+  padding: 1.2rem 3rem;
   background-color: #658E9E;
   border-radius: 7px;
   font-weight: bold;
@@ -60,10 +61,10 @@ body {
 }
 
 .welcome-line {
-  margin-top: 3rem;
+  margin-top: 2.7rem;
 }
 
 .marketplace-line {
-  margin-top: 29rem;
+  margin-top: 28.3rem;
   font-size: 32px;
 }
