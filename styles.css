@@ -20,3 +20,10 @@ body {
   background-color: #F0E9E6;
   box-shadow: 0 0 30px black;
 }
+
+.nav-links {
+  margin: 2rem 0  0 20rem;
+  display: flex;
+  gap: 5rem;
+  list-style: none;
+}
