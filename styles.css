@@ -37,6 +37,7 @@ body {
   background-size: cover;
   height: 90vh;
   width: 55vw;
+  border-bottom: 2px solid black;
 }
 
 .hero-shop-button {
@@ -58,6 +59,7 @@ body {
   background-size: 39rem 29rem;
   width: 45vw;
   height: 90vh;
+  border-bottom: 2px solid black;
 }
 
 .welcome-line {
@@ -86,6 +88,8 @@ body {
   text-align: center;
   margin-top: 16rem;
   padding: 2rem;
+  font-size: 24px;
+  font-style: italic;
   background-color: grey;
   color: white;
 }
