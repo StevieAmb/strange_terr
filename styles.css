@@ -39,6 +39,16 @@ body {
   width: 55vw;
 }
 
+.hero-shop-button {
+  padding: 1.2rem 2.4rem;
+  border: none;
+  background-color: #658E9E;
+  border-radius: 7px;
+  font-weight: bold;
+  color: white;
+  font-size: 24px;
+}
+
 .logo-section {
   background-image: url('images/STlogo.png');
   text-align: center;
