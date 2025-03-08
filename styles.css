@@ -27,3 +27,8 @@ body {
   gap: 5rem;
   list-style: none;
 }
+
+.hero-image-section {
+  display: flex;
+  gap: 2rem;
+}
